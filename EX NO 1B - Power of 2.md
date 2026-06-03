@@ -26,8 +26,8 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 ```
 /*
 Program to implement Reverse a String
-Developed by: SYED ABBU REHAN
-Register Number: 212223240165
+Developed by: GAYATHRI K
+Register Number: 212223230061
 
 import java.util.Scanner;
 
